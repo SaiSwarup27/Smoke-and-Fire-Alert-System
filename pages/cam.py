@@ -45,6 +45,6 @@ else:
     st.image(im_rgb,caption='output')
 
     if st.button('Send Fire Alert'):
-        if(count.item()>=1):
+        if(count.any()>=1):
             #play()
             sms()
