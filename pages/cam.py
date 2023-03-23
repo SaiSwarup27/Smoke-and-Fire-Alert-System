@@ -46,5 +46,5 @@ else:
 
     if st.button('Send Fire Alert'):
         if(count.item()>=1):
-            play()
+            #play()
             sms()
