@@ -1,1 +1,2 @@
 # Smoke-and-Fire-Alert-System !
+The project amalgamates sophisticated computer vision techniques with a streamlined deployment approach to deliver a robust fire and smoke detection system. By exploiting the YOLOv5 algorithm for precise object detection and embracing Streamlit for user interaction, the project presents a holistic solution for prompt identification of potential fire-related hazards. The implications span various sectors, promising elevated safety measures and proactive mitigation of fire-related risks.
